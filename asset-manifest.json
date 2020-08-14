@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/github.com/theericwright/supreme-spoon/static/css/main.8edc3397.chunk.css",
-    "main.js": "/github.com/theericwright/supreme-spoon/static/js/main.a6caaa3b.chunk.js",
-    "main.js.map": "/github.com/theericwright/supreme-spoon/static/js/main.a6caaa3b.chunk.js.map",
-    "runtime-main.js": "/github.com/theericwright/supreme-spoon/static/js/runtime-main.023eb0a5.js",
-    "runtime-main.js.map": "/github.com/theericwright/supreme-spoon/static/js/runtime-main.023eb0a5.js.map",
-    "static/js/2.354bc41a.chunk.js": "/github.com/theericwright/supreme-spoon/static/js/2.354bc41a.chunk.js",
-    "static/js/2.354bc41a.chunk.js.map": "/github.com/theericwright/supreme-spoon/static/js/2.354bc41a.chunk.js.map",
-    "index.html": "/github.com/theericwright/supreme-spoon/index.html",
-    "precache-manifest.d185ba37ab6f7ea11799fea7cedd42bc.js": "/github.com/theericwright/supreme-spoon/precache-manifest.d185ba37ab6f7ea11799fea7cedd42bc.js",
-    "service-worker.js": "/github.com/theericwright/supreme-spoon/service-worker.js",
-    "static/css/main.8edc3397.chunk.css.map": "/github.com/theericwright/supreme-spoon/static/css/main.8edc3397.chunk.css.map",
-    "static/js/2.354bc41a.chunk.js.LICENSE.txt": "/github.com/theericwright/supreme-spoon/static/js/2.354bc41a.chunk.js.LICENSE.txt"
+    "main.css": "/supreme-spoon/static/css/main.8edc3397.chunk.css",
+    "main.js": "/supreme-spoon/static/js/main.a6caaa3b.chunk.js",
+    "main.js.map": "/supreme-spoon/static/js/main.a6caaa3b.chunk.js.map",
+    "runtime-main.js": "/supreme-spoon/static/js/runtime-main.2de5ab85.js",
+    "runtime-main.js.map": "/supreme-spoon/static/js/runtime-main.2de5ab85.js.map",
+    "static/js/2.354bc41a.chunk.js": "/supreme-spoon/static/js/2.354bc41a.chunk.js",
+    "static/js/2.354bc41a.chunk.js.map": "/supreme-spoon/static/js/2.354bc41a.chunk.js.map",
+    "index.html": "/supreme-spoon/index.html",
+    "precache-manifest.ba45816165dde01e2ef366ecbdb32194.js": "/supreme-spoon/precache-manifest.ba45816165dde01e2ef366ecbdb32194.js",
+    "service-worker.js": "/supreme-spoon/service-worker.js",
+    "static/css/main.8edc3397.chunk.css.map": "/supreme-spoon/static/css/main.8edc3397.chunk.css.map",
+    "static/js/2.354bc41a.chunk.js.LICENSE.txt": "/supreme-spoon/static/js/2.354bc41a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.023eb0a5.js",
+    "static/js/runtime-main.2de5ab85.js",
     "static/js/2.354bc41a.chunk.js",
     "static/css/main.8edc3397.chunk.css",
     "static/js/main.a6caaa3b.chunk.js"
