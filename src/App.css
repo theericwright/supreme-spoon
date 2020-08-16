@@ -16,25 +16,33 @@
 		padding: 0 10px;
 		}
 		
-.form-container {display: flex; width: 1800px;}
+.form-container {display: flex; width: 80%;}
 .input-text { 
-			font-size:20px;
+			font-size:12px;
 			padding: 2px 15px;
-			border: 1px solid #cecece;
+			border: 2px solid #cecece;
 			outline: none;
-			font-weight:800;
-			max-width: 1200px;
+			font-weight:500;
+			width: 80%;
+			margin-top:10px;
+			margin-bottom:10px;
 			}
 
 .input-text::placeholder {
 		color: rgb(17, 17, 17);
 		opacity: 100;
 		}
-		
+@media {		
 .input-submit:hover{
-		background: #000088;
+		background-color: #000088;
+		transition: background-color 1s;
+		animation:submit infinite 1s linear;
+}		
 	
-		}		
+		}	
+@keyframes submit {from{transform: rotate(0deg);}to{transform:rotate(360deg);}}		
+
+@media{
 .input-submit {
 		margin-left:100px;
 		flex: 2;
@@ -46,10 +54,13 @@
 		font-weight: 600;
 		max-width: 100px;
 		outline: none;
+		animation:submit infinite 5s linear;
 		}
+}
 		
 		
 .todo-item {
+		
 		width: 80%;
 		list-style-type: none;
 		padding: 10px 0px;
@@ -58,6 +69,7 @@
 		
 		
 .todo-item input {
+		
 		margin-right: 20px;
 		}
 		
